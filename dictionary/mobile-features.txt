@@ -1,0 +1,26 @@
+Service lights
+Haptic feedback
+Music ringtones (MP3)
+Polyphonic ringtones
+Vibration
+Flight mode
+Silent mode
+Speakerphone
+Voice dialing
+Voice commands
+Voice recording
+Accelerometer
+Fast battery charging
+wireless charging
+Qi/PMA wireless charging
+ANT+ support
+S-Voice
+natural language commands
+dictation
+OneDrive
+Photo/video editor
+Document editor
+Siri natural language commands and dictation
+iCloud cloud service
+Apple Lossless player
+Active noise cancellation with dedicated mic

@@ -1,0 +1,46 @@
+USB 2.0
+USB 3.0
+USB Type-C
+microUSB
+Mass storage device
+USB charging
+GPS
+A-GPS
+Glonass
+BeiDou
+Turn-by-turn navigation
+Voice navigation
+Tethering
+Computer sync
+OTA sync
+WLAN
+Wi-Fi 802.11 
+a/b/g/n/ac
+dual-band
+Wi-Fi Direct
+hotspot
+Bluetooth
+v4.2
+A2DP
+LE
+aptX
+BDS
+NFC	
+Radio
+USB
+microUSB v2.0
+USB Host
+4.2
+Wi-Fi:
+802.11 b, g, n, ac, dual-band
+GSM
+CDMA
+HSPA
+EVDO
+LTE
+2G
+3G
+4G
+GPRS
+EDGE
+VoLTE

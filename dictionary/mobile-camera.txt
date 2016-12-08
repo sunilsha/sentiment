@@ -1,0 +1,95 @@
+Face detection
+Digital zoom
+Self-timer
+Touch to focus
+Geo tagging
+Exposure compensation
+ISO control
+White balance presets
+Burst mode
+High Dynamic Range mode (HDR)
+Panorama
+Night mode
+Scenes
+Secondary
+HDR
+fps
+HD
+Picture-taking during video recording
+Video calling
+Video sharing
+12 megapixels
+Flash: LED
+Optical image stabilization
+Autofocus 
+Phase detection
+RAW image capture
+Effects
+3840x2160 
+4K
+30 fps
+1920x1080
+1080p HD
+60 fps
+1280x720
+720p
+240 fps
+5 megapixels
+mp
+12 MP
+f/1.7
+26mm
+OIS
+LED flash
+1/2.5" sensor size
+1.4 µm pixel size
+geo-tagging
+simultaneous
+9MP
+image recording
+touch focus
+face/smile detection
+Auto HDR
+2160p@30fps
+1080p@60fps
+720p@240fps
+dual-video rec
+5 MP
+1/4.1
+sensor size
+f/1.7
+22mm
+dual video call
+Dual LED
+Aperture size
+F1.8
+Dual-camera (8-megapixel, F2.4 aperture)
+Manual focus
+Touch to focus
+Voice activation
+Self-timer
+Digital zoom
+Exposure compensation
+ISO control
+White balance presets
+Shutter speed control
+Shooting Modes
+Burst mode
+High Dynamic Range mode (HDR)
+Panorama
+Effects
+Continuous autofocus
+Object tracking
+Digital image stabilization
+Front-facing camera
+Wide Angle
+24-bit/192kHz stereo sound rec
+stereo sound rec
+Sapphire crystal lens cover
+Back-illuminated sensor
+BSI
+Blurry
+bad camera
+poor camera quality
+Professional Mode
+slow motion

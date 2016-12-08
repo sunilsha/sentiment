@@ -1,0 +1,313 @@
+Charger
+selfie stick
+battery
+charger
+car charger
+wall charger
+data cable
+OTG cable
+earphone
+portable speakers
+case
+cover
+Bluetooth Headset
+OTG Micro USB Flash Drive
+Power Bank
+Memory cards
+SD cards
+Virtual Reality Glasses
+VR Glasses
+Screen Protector
+Tempered Glass
+Aux Audio Cable
+HiSilicon Kirin 960
+Apple A9X
+Samsung Exynos 8890 Octa
+HiSilicon Kirin 955
+HiSilicon Kirin 950
+Apple A10 Fusion
+Qualcomm Snapdragon 821 MSM8996 Pro
+Samsung Exynos 7420 Octa
+Qualcomm Snapdragon 820 MSM8996
+Apple A9
+Intel Atom x7-Z8700
+Qualcomm Snapdragon 810 MSM8994
+Qualcomm Snapdragon 652 MSM8976
+Qualcomm Snapdragon 808 MSM8992
+Qualcomm Snapdragon 650 MSM8956
+Intel Atom x5-Z8550
+Intel Atom Z3795
+Intel Atom Z3785
+Intel Atom Z3775
+Model
+Intel Atom Z3775D
+Intel Atom Z3770
+Intel Atom Z3770D
+Intel Atom x5-Z8500
+Nvidia Tegra X1
+Apple A8X
+Nvidia Tegra K1 (Denver)
+Mediatek MT8173
+Mediatek MT6595 Turbo
+Samsung Exynos 5433 Octa
+Apple A8
+Nvidia Tegra K1
+Qualcomm Snapdragon 805 APQ8084
+Intel Atom Z3580
+Intel Atom Z3736F
+Intel Atom Z3736G
+Intel Atom x5-Z8350
+Intel Atom x5-Z8300
+Intel Atom Z3745
+Intel Atom Z3745D
+Intel Atom Z3740
+Intel Atom Z3740D
+Intel Atom Z3735D
+Intel Atom Z3735E
+Intel Atom Z3735F
+Intel Atom Z3735G
+Qualcomm Snapdragon 801 MSM8974AC
+Samsung Exynos 5430 Octa
+Mediatek MT6595
+Qualcomm Snapdragon 801 APQ8074AB
+Qualcomm Snapdragon 801 MSM8974AB
+Nvidia Tegra 4
+Intel Atom Z3680
+Intel Atom Z3680D
+Mediatek MT6595M
+Qualcomm Snapdragon 801 MSM8974AA
+HiSilicon Kirin 925
+Qualcomm Snapdragon 800 MSM8974
+Samsung Exynos 5420 Octa
+HiSilicon Kirin 920
+HiSilicon Kirin 935
+Mediatek MT6795
+Qualcomm Snapdragon 625
+Samsung Exynos 7870 Octa
+HiSilicon Kirin 650
+HiSilicon Kirin 930
+Mediatek Helio P10 MT6755
+Apple A7
+Intel Atom Z3570
+Intel Atom Z3560
+Samsung Exynos 5410 Octa
+Intel Atom Z3480
+Intel Atom x3-C3440
+Samsung Exynos 5260 Hexa
+Mediatek MT8135
+Intel Atom Z3530
+Samsung Exynos 5250 Dual
+Mediatek MT8752
+Mediatek MT6752
+Samsung Exynos 7580 Octa
+Qualcomm Snapdragon 617 MSM8952
+Qualcomm Snapdragon 616 MSM8939v2
+Qualcomm Snapdragon 615 MSM8939
+Qualcomm Snapdragon 425
+Rockchip RK3288
+Mediatek MT6753
+Qualcomm Snapdragon 610 MSM8936
+MediaTek MT8163 V/A 1.5 GHz
+Mediatek MT6592
+Qualcomm Snapdragon 600 APQ8064T
+Samsung Exynos 7578
+HiSilicon Kirin 910T
+MediaTek MT8163 V/B 1.3 GHz
+MediaTek MT8161
+Intel Atom x3-C3230RK
+Qualcomm Snapdragon 430
+Qualcomm Snapdragon 415 MSM8929
+Intel Atom Z3460
+Qualcomm Snapdragon S4 Pro APQ8064A
+Mediatek MT8732
+Mediatek MT8165
+Mediatek MT6732
+Mediatek MT6735
+Mediatek MT8735
+Mediatek MT6737
+Rockchip RK3188
+Qualcomm Snapdragon 410 MSM8916
+Qualcomm Snapdragon 410 APQ8016
+HiSilicon Kirin 620
+HiSilicon Kirin 910
+Intel Atom Z2760
+Qualcomm Snapdragon 400 MSM8928
+Qualcomm Snapdragon 400 APQ8028
+Marvell Armada PXA1908
+Apple A6x
+Intel Atom Z2580
+Qualcomm Snapdragon S4 Pro MSM8960DT
+Qualcomm Snapdragon S4 Pro MSM8960T
+Qualcomm Snapdragon 400 8930AB
+Qualcomm Snapdragon S4 Plus APQ8060A
+Qualcomm Snapdragon S4 Plus MSM8960
+Qualcomm Snapdragon S4 Plus MSM8260A
+Intel Atom Z2560
+AMD Z-60
+AMD Z-01
+Intel Atom Z560
+Intel Atom Z550
+Apple A6
+Intel Atom x3-C3130
+Samsung Exynos 4412 Quad
+NVIDIA Tegra 3
+Mediatek MT8127
+Mediatek MT6589T
+Mediatek MT8389
+Mediatek MT8125
+Spreadtrum SC9830A
+Samsung Exynos 3470 Quad
+Samsung Exynos 3475 Quad
+Mediatek MT8121
+Mediatek MT6582
+Mediatek MT6582M
+Mediatek MT6580M
+Spreadtrum SC7731
+Qualcomm Snapdragon 212 APQ8009
+Qualcomm Snapdragon 400 MSM8926
+Qualcomm Snapdragon 400 MSM8226
+Qualcomm Snapdragon 400 APQ8026
+Mediatek MT6589
+Qualcomm Snapdragon 200 MSM8212
+Qualcomm Snapdragon 210 MSM8909
+Marvell PXA1088
+Qualcomm Snapdragon S4 Plus MSM8930
+Qualcomm Snapdragon S4 Plus MSM8230
+Intel Atom Z2480
+Intel Atom Z540
+Intel Atom Z530
+Intel Atom Z670
+Intel Atom Z2460
+Intel Atom Z520
+Qualcomm Snapdragon S4 Plus MSM8227
+Samsung Exynos 4212 1.5 GHz
+Texas Instruments OMAP 4470
+HiSilicon k3v2 Hi3620
+Rockchip RK3066 1.5 GHz
+Qualcomm Snapdragon S4 Play MSM8625Q
+Qualcomm Snapdragon 200 8225Q
+Qualcomm Snapdragon S4 Play MSM8225Q
+MediaTek MT8312
+Renesas MP5232
+Broadcom BCM21664T
+Marvell PXA986
+Qualcomm Snapdragon S3 MSM8660
+Qualcomm Snapdragon S3 MSM8260
+Samsung Exynos 4210 1.4 GHz
+Texas Instruments OMAP 4460
+Rockchip RK3168
+Samsung Exynos 4210 1.2 GHz
+MediaTek MT8377
+Broadcom BCM28155
+Texas Instruments OMAP 4430
+MediaTek MT6572
+Spreadtrum SC8830
+Apple A5x
+Qualcomm Snapdragon S4 Play MSM8225
+Intel Atom Z2420
+Apple A5
+Nvidia Tegra 2 (250)
+Qualcomm Snapdragon 200 8210
+MediaTek MT8317T
+MediaTek MT6577
+ST-Ericsson NovaThor U8500
+ST-Ericsson NovaThor U8420
+Intel Atom Z510
+Intel Atom Z2000
+MediaTek MT6575
+Intel Atom Z500
+Qualcomm Snapdragon S2 MSM8255
+Rockchip RK2918 1.2 GHz
+AllWinner A10
+ARM Cortex A8 1.2 GHz
+Apple A4
+AllWinner A13
+WonderMedia PRIZM WM8950
+Samsung Hummingbird S5PC110 / Exynos 3110
+Qualcomm Snapdragon S1 MSM7227A
+Qualcomm Snapdragon S1 MSM7225A
+Texas Instruments OMAP 3630 1GHz
+Texas Instruments OMAP 3622
+Rockchip RK2918
+Telechips TCC8803 1GHz
+ZiiLABS ZMS-08
+ARM Cortex A8 1GHz
+Actions ACT-ATM7029
+Qualcomm Snapdragon S1 QSD8250
+Loongson 2F 900MHz
+Qualcomm Snapdragon S1 MSM7227
+Cortex-A73/-A53
+Cyclone 3
+Mongoose / Cortex-A53
+Cortex-A72/-A53
+Cyclone 4?
+Kryo
+Cortex-A57/-A53
+Cherry Trail
+Cortex-A53/A57
+Bay Trail-T
+Codename
+Erista (Cortex-A57 + A53)
+Cyclone 2
+Denver
+Cortex-A7/-A17
+Logan (Cortex-A15 \"r3\" + Kepler-GPU)
+Krait 450
+Moorefield
+Krait 400
+Cortex-A7/-A15
+Wayne (Cortex A15)
+Cortex-A15 / Cortex-A7
+Cortex-A53
+A53
+Cyclone
+Merrifield
+SoFIA LTE
+Cortex-A15
+Cortex A15
+Cortex-A7
+Krait-300
+Cortex-A9
+SoFIA 3G-R
+ARMv7
+Cloverview
+Krait 300
+Hondo
+Desna
+SoFIA 3G
+Cortex A9
+Kal-El
+Penwell
+Silverthorne
+Lincroft
+Cortex-A5
+Saltwell
+T20 Harmony
+Scorpion
+S5L8930
+Cortex A8
+Cortex A5
+ARM Cortex A8
+ARM
+ARM1136EJ-S
+microSD
+microSDHC up to 32 GB
+4 GB
+8 GB
+16 GB
+32 GB
+64 GB
+128 GB
+256 GB
+motherboard
+speaker sound
+SOUND
+processor
+LED NOTIFICATION
+Dual SIM
+Call Quality
+Hardware
+multitasking
+audio jack
+3.5 mm
+power button

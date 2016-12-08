@@ -1,0 +1,390 @@
+@font-face { 
+	font-family: News Cycle; 
+	src: url('../fonts/NewsCycle-Regular.eot'); 
+	src: local("News Cycle"), url('../fonts/NewsCycle-Regular.ttf'); 
+} 
+
+html {
+	height: 100%;
+}
+
+* { 
+	margin: 0;
+	padding: 0;
+}
+
+body { 
+	/*font: normal 80% Arial, Helvetica, sans-serif;*/
+	font: 80% 'Courier New',Helvetica,sans-serif;
+	color: #000;
+}
+
+
+article, aside, figure, footer, header, hgroup, nav, section { 
+  display:block;
+}
+
+p {
+	padding: 0 0 10px 0;
+	color: #000;
+	line-height: 1.7em;
+	font-size: 100%;
+}
+
+img {
+	border: 0;
+}
+
+h1, h2, h3, h4, h5, h6  {
+	font: bold 175% 'News Cycle', Arial, sans-serif;
+	color: #0043A8;
+	text-shadow: 1px 1px #fff;
+	letter-spacing: -1px;
+	margin: 0 0 10px 0;
+}
+
+h2 {
+	font: bold 165% 'News Cycle', Arial, sans-serif;
+}
+
+h3 {
+	font: bold 130% 'News Cycle', Arial, sans-serif;
+	color: #0043A8;
+}
+
+h4, h5, h6 {
+	margin: 0;
+	padding: 0 0 0px 0;
+	font: normal 150% 'News Cycle', Arial, sans-serif;
+	color: #FFF;
+	line-height: 1.5em;
+}
+
+h5, h6 {
+	font: normal 95% 'News Cycle', Arial, sans-serif;
+	color: #888;
+	padding-bottom: 15px;
+}
+  
+span {
+	color: #0043A8;
+	text-shadow: 1px 1px #fff;
+}
+
+a, a:hover {
+	color: #000;
+	background: transparent;
+	outline: none;
+	text-decoration: underline;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+ul { 
+	margin: 2px 0 22px 30px;
+	line-height: 1.7em;
+	font-style: normal;
+	font-size: 100%;
+}
+
+ol {
+	margin: 8px 0 22px 20px;
+}
+
+ol li {
+	margin: 0 0 11px 0;
+}
+
+#main, header, #banner, #menubar, #site_content, footer, #content_grey, nav
+{ 
+	margin-left: auto; 
+	margin-right: auto;
+}
+
+#main
+{ 
+	background: #FFF;
+	background: -moz-linear-gradient(#A0A0A0, #FFF);
+	background: -o-linear-gradient(#A0A0A0, #FFF);
+	background: -webkit-linear-gradient(#A0A0A0, #FFF);
+	margin-top: 25px;
+}
+  
+header {
+	height: 500px;
+	background: #1D1D1D url(../images/pattern.png) repeat;
+	-webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+	-moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+	box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+}
+
+nav {
+	height: 50px;
+}  
+  
+#menubar
+{
+	width: 940px;
+	height: 50px;
+	text-align: center; 
+	margin-top: -25px;
+	background: #0043A8;
+	background: -moz-linear-gradient(#43A9FF, #0043A8);
+	background: -o-linear-gradient(#43A9FF, #0043A8);
+	background: -webkit-linear-gradient(#43A9FF, #0043A8);
+	border: 1px solid #0043A8;
+} 
+  
+#welcome {
+	width: 880px;
+	float: left;
+	height: 50px;
+	margin: 0 auto;
+	text-align: center;
+	padding: 0 0 10px 20px;
+	background: transparent;
+} 
+  
+#commentTextArea {
+	padding: 5px 0 0 10px;
+	color: #000;
+	width: 428px;
+	height: 100px;
+	line-height: 1.7em;
+	font-size: 15px;
+	margin-bottom: 20px;
+	margin-top: 15px;
+    resize: none;
+}
+.postComment {
+  background-color: #008CBA;
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+#postYourOpinion {
+	color: #FFFFFF;
+	float: right;
+	font-size: 100%;
+	font-weight: bold;
+	line-height: 1.7em;
+}
+
+#welcome_slogan {
+	width: 880px;
+	float: left;
+	height: 50px;
+	margin: 0 auto;
+	text-align: center;  
+	padding-left: 20px;
+	background: transparent;
+}   
+   
+#welcome H3 {
+	font: normal 400% 'News Cycle', Arial, sans-serif;
+	letter-spacing: -3px;
+	text-shadow: 1px 1px #000;
+	color: #FFF;
+}
+
+#welcome_slogan H3 {
+	font: normal 300% 'News Cycle', Arial, sans-serif;
+	letter-spacing: -2px;
+	text-shadow: 1px 1px #000;
+	color: #FFF;
+}  
+  
+ul#nav {
+	margin:0;
+}
+
+ul#nav li {
+	padding: 0 0 0 0px;
+	list-style: none;
+	margin: 2px 0 0 0;
+	display: inline;
+	background: transparent;
+}
+
+ul#nav li a {
+	float: left;
+	font: bold 120% Arial, Helvetica, sans-serif;
+	height: 24px;
+	margin: 10px 0 0 20px;
+	text-shadow: 1px 1px #000;
+	padding: 6px 20px 0 20px;
+	background: transparent; 
+	border-radius: 7px 7px 7px 7px;
+	-moz-border-radius: 7px 7px 7px 7px;
+	-webkit-border: 7px 7px 7px 7px;
+	text-align: center;
+	color: #FFF;
+	text-decoration: none;
+} 
+  
+ul#nav li.current a
+{
+	color: #FFFFFF; 
+	text-shadow: none;
+	font-weight:bold;
+}
+
+#site_content
+{ width: 940px;
+  overflow: hidden;
+  margin-bottom: 30px;
+  background: #FFF;
+  border: 1px solid #bbb;
+}
+
+#commentSection
+{
+    width: 940px;
+    background: #FFF;
+}
+
+#content {
+	width: 430px;
+	margin: 0 0 20px 20px;
+	float: left;
+}
+
+.content_item {
+	width: 100%;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding-left: 10px;
+}
+
+.contentItem {
+	width: 100%;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding-left: 10px;
+	border-left: 1px dashed #2980B9;
+}
+  
+.content_container
+{
+	width: 320px;
+	padding: 5px;
+	margin: 20px 10px 0 0;
+	float: left;
+}
+  
+footer {
+	height: 50px;
+	padding-bottom: 30px;
+	font-weight: bold;
+	text-align: center; 
+	text-shadow: 1px 1px #FFF;
+	color: #0043A8;
+	background: #FFF;
+}
+
+footer a, footer a:hover {
+	text-shadow: 1px 1px #FFF;
+	color: #0043A8;
+	text-decoration: none;
+	padding-bottom: 20px;
+}
+
+footer a:hover {
+	text-decoration: underline;
+}
+
+footer a, footer a:hover {
+	text-shadow: 1px 1px #FFF;
+	color: #0043A8;
+	text-decoration: none;
+}
+
+footer a:hover {
+	text-decoration: underline;
+}
+
+.table {
+	margin: 0 0 40px 0;
+	width: 100%;
+	display: table;
+}
+
+.row {
+	display: table-row;
+}
+
+.header {
+    font-weight: 900;
+    color: #ffffff;
+    background: #ea6153;
+}
+
+.blue {
+    background: #2980b9;
+    padding: 8px 0;
+}
+
+.cell {
+	padding: 12px 12px !important;
+	display: table-cell !important;
+	padding: 2px 12px;
+	height: auto;
+	width: 41%;
+	box-shadow: 0 2px 1px #2980B9;
+	font-size: 13px !important;
+}
+
+.cellSource {
+	padding: 12px 12px !important;
+	display: table-cell !important;
+	padding: 2px 12px;
+	height: auto;
+	width: 5%;
+	box-shadow: 0 2px 1px #2980B9;
+	font-size: 13px !important;
+}
+
+.cellPositive {
+	padding: 12px 12px !important;
+	display: table-cell !important;
+	padding: 2px 12px;
+	height: auto;
+	width: 15%;
+	box-shadow: 0 2px 1px #2980B9;
+	font-size: 13px !important;
+}
+
+.cellDate {
+	padding: 12px 12px !important;
+	display: table-cell !important;
+	padding: 2px 12px;
+	height: auto;
+	width: 4%;
+	font-size: 13px !important;
+	box-shadow: 0 2px 1px #2980B9;
+}
+
+#bottomLine {
+	border-bottom: medium solid #FF0000;
+	width: 100%;
+}
+#errorMessage {
+	color: #FF0000;
+}
+
+.customStyle {
+	margin-top: 65px !important;
+}
+
+.customStylePara {
+	margin-top: 15px;
+}
